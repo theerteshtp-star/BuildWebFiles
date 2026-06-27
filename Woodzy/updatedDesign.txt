@@ -1,0 +1,3 @@
+added chrome header color changes in tiltle.js file
+added splash screen (chnages in= created splashScrenn.js, added id="splash-screen" html, added #splash-screen css)
+added video popup for new alert (this popup will appear only when youtube link available in VideoNew.txt file (only one link add at a time))
