@@ -1,0 +1,229 @@
+{
+  "nav": {
+    "home": "Home",
+    "academics": "Academics",
+    "admissions": "Admissions",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "awards": "Awards"
+  },
+  "school": {
+    "name": "S.J.M. Public School",
+    "tagline": "Knowledge is Power",
+    "hero_desc": "A premier co-educational school located in Govindapura, Nagawara, Bangalore. Committed to nurturing young minds, fostering holistic development, and encouraging intellectual excellence.",
+    "explore_btn": "View Curriculum",
+    "apply_btn": "Admission Inquiry",
+    "learn_more": "Learn More"
+  },
+  "home": {
+    "features_title": "Our Core Foundations",
+    "feature_stem_title": "ICSE Academic Excellence",
+    "feature_stem_desc": "Balanced intellectual curriculum emphasizing mathematics, environmental science, and creative languages.",
+    "feature_arts_title": "Co-Curricular Arts & Sports",
+    "feature_arts_desc": "Encouraging expression through public speaking, performing arts, painting, and physical education.",
+    "feature_humanities_title": "Moral Values & Discipline",
+    "feature_humanities_desc": "Nurturing sound character, civil responsibility, respect, and global citizenship.",
+    "stats_title": "Our Metrics & Milestones",
+    "stats_students": "Students",
+    "stats_teachers": "Teachers",
+    "stats_awards": "Awards",
+    "stats_years": "Years"
+  },
+  "academics": {
+    "title": "ICSE Academic Curriculum",
+    "subtitle": "Discover our comprehensive education path, state-of-the-art labs, and class structures.",
+    "grades_title": "Class Divisions & Grades",
+    "grade_primary": "Primary School (Nursery - Grade 5)",
+    "grade_primary_desc": "Building strong foundational skills in math, basic coding, language arts, and environment awareness.",
+    "grade_middle": "Middle School (Grades 6 - 8)",
+    "grade_middle_desc": "Enhancing analytical thinking, scientific inquiry, social studies, and languages.",
+    "grade_senior": "High School (Grades 9 - 10)",
+    "grade_senior_desc": "Advanced learning tracks preparing students for ICSE Board Examinations with specialized computer applications.",
+    "labs_title": "School Labs & Facilities",
+    "lab_quantum": "Composite Science Laboratory",
+    "lab_quantum_desc": "Fully equipped workspace for practical experiments in Physics, Chemistry, and Biology.",
+    "lab_design": "Computer Application Lab",
+    "lab_design_desc": "Dedicated workstations for software literacy, basic algorithm design, and coding skills."
+  },
+  "admissions": {
+    "title": "Admissions Information",
+    "subtitle": "Begin your child's journey towards academic and character development.",
+    "guide_title": "Admission Process",
+    "guide_step1": "Submit Inquiry Form",
+    "guide_step1_desc": "Complete our quick online registration form with candidate details and guardian contacts.",
+    "guide_step2": "Document Verification",
+    "guide_step2_desc": "Visit the school campus with birth certificate and previous academic reports for check.",
+    "guide_step3": "Interactive Interaction",
+    "guide_step3_desc": "A warm, friendly dialogue with the principal to align on the school values and student goals.",
+    "form_header": "Online Admission Inquiry Form",
+    "form_student_name": "Candidate's Full Name",
+    "form_email": "Parent / Guardian Email",
+    "form_grade": "Target Class Grade",
+    "form_academic_interests": "Elective / Co-Curricular Interest",
+    "form_prev_school": "Previous School (if any)",
+    "form_agree": "I confirm the accuracy of all submitted details.",
+    "form_submit": "Submit Admission Inquiry",
+    "success_message": "Your inquiry has been successfully logged! Our admissions counselor will contact you within 24 hours.",
+    "validation_metrics": "Form Completeness Indicators",
+    "completion_rate": "Completion rate"
+  },
+  "gallery": {
+    "title": "Visual Campus Archives",
+    "subtitle": "Glimpse into the daily life, celebrations, and infrastructure at Sri Jnana Maruthi Vidyalaya.",
+    "broken_image_demo": "Interactive Campus Gallery",
+    "simulated_desc": "Explore high-resolution visual memories of our vibrant school campus, playgrounds, and events."
+  },
+  "contact": {
+    "title": "Contact & Support",
+    "subtitle": "Get in touch with our administrative office for fee details, admissions, or suggestions.",
+    "form_name": "Your Full Name",
+    "form_subject": "Inquiry Subject",
+    "form_channel": "Preferred Contact Channel",
+    "form_message": "Write your message details",
+    "form_submit": "Submit Message",
+    "success": "Your message has been sent successfully!",
+    "address": "School Address",
+    "address_val": "Opposite Glass Factory Bus Stop, Umar Nagar, Govindapura, Nagawara, Bangalore - 560045",
+    "phone": "Phone Number",
+    "phone_val": "080-25438516",
+    "frequency": "Office Timings",
+    "frequency_val": "Mon - Sat: 8:30 AM - 3:30 PM"
+  },
+  "awards": {
+    "title": "Milestones of Excellence",
+    "subtitle": "Celebrating the achievements and laurels of S.J.M. Public School in academic, sporting, and creative domains.",
+    "explore_cta": "Click to Explore Awards",
+    "modal_close": "Close Details",
+    "year_label": "Year",
+    "level_label": "Level",
+    "recipient_label": "Recipient",
+    "organizer_label": "Organized By",
+    "details_title": "Award Details",
+    "categories": {
+      "academics": {
+        "title": "Academic Achievements",
+        "count": "15+",
+        "desc": "Exemplary performance in ICSE board examinations, subject toppers, and state-level scholarship awards.",
+        "items": [
+          {
+            "title": "ICSE State Topper (Grade 10)",
+            "year": "2025",
+            "level": "State Level",
+            "recipient": "Rohit Kumar (Class 10)",
+            "organizer": "CISCE Board",
+            "desc": "Secured a historic 99.2% in the ICSE Board Examinations, ranking 3rd state-wide."
+          },
+          {
+            "title": "National Math Olympiad Gold Medal",
+            "year": "2024",
+            "level": "National Level",
+            "recipient": "Ananya Sharma (Class 8)",
+            "organizer": "Science Olympiad Foundation (SOF)",
+            "desc": "Won the prestigious gold medal by achieving 1st Rank internationally in Mathematics."
+          },
+          {
+            "title": "Karnataka Merit Scholarship",
+            "year": "2024",
+            "level": "State Level",
+            "recipient": "Preethi Gowda (Class 9)",
+            "organizer": "Karnataka Department of Education",
+            "desc": "Awarded for exceptional academic progress and top scores in state-wide screening exams."
+          }
+        ]
+      },
+      "sports": {
+        "title": "Sports & Athletics Champions",
+        "count": "20+",
+        "desc": "Trophies and medals won in inter-school football, athletic track events, basketball, and chess tournaments.",
+        "items": [
+          {
+            "title": "Inter-School Football Championship",
+            "year": "2025",
+            "level": "Zonal Level",
+            "recipient": "Under-16 School Football Team",
+            "organizer": "Bangalore Schools Athletic Association",
+            "desc": "Won the championship trophy after defeating the opponents in a thrilling penalty shootout."
+          },
+          {
+            "title": "State Athletics Meet Gold Medal (100m)",
+            "year": "2024",
+            "level": "State Level",
+            "recipient": "Karan Murthy (Class 10)",
+            "organizer": "Karnataka State Schools Athletic League",
+            "desc": "Clocked a record 11.2 seconds to win gold in the 100-meter sprint category."
+          },
+          {
+            "title": "Inter-School Chess Master Cup",
+            "year": "2025",
+            "level": "District Level",
+            "recipient": "Srinidhi R. (Class 7)",
+            "organizer": "Bangalore District Chess Academy",
+            "desc": "Remained undefeated throughout the 7-round Swiss system tournament to claim the top spot."
+          }
+        ]
+      },
+      "science": {
+        "title": "Science & Tech Laurels",
+        "count": "10+",
+        "desc": "Recognition at regional science fairs, robotics exhibits, and inter-school coding hackathons.",
+        "items": [
+          {
+            "title": "First Prize - Bangalore Science & Tech Fair",
+            "year": "2025",
+            "level": "District Level",
+            "recipient": "Megha Nair & Amit Deshmukh (Class 9)",
+            "organizer": "Bangalore Science Association",
+            "desc": "Developed a working prototype of a low-cost automated smart irrigation system utilizing soil sensors."
+          },
+          {
+            "title": "Outstanding Innovator Award (Robotics)",
+            "year": "2024",
+            "level": "National Level",
+            "recipient": "Robotics Club (Grade 8-10)",
+            "organizer": "National STEM Foundation",
+            "desc": "Designed a search-and-rescue robot capable of navigating obstacles using ultrasonic sensors."
+          },
+          {
+            "title": "Inter-School Coding Hackathon Winner",
+            "year": "2025",
+            "level": "Zonal Level",
+            "recipient": "Vikram Seth (Class 10)",
+            "organizer": "TechNext Schools Hub",
+            "desc": "Created a lightweight student portal application in under 24 hours focusing on user accessibility."
+          }
+        ]
+      },
+      "arts": {
+        "title": "Creative Arts & Cultural Glory",
+        "count": "12+",
+        "desc": "Laurels in classical dance, theatrical performances, public speaking competitions, and canvas painting.",
+        "items": [
+          {
+            "title": "Best Theatrical Production Cup",
+            "year": "2025",
+            "level": "Zonal Level",
+            "recipient": "Drama Club Members",
+            "organizer": "Rotary Club Bangalore South",
+            "desc": "Staged an original play on environmental conservation, winning Best Script and Best Actor awards."
+          },
+          {
+            "title": "Classical Dance Championship (Bharatanatyam)",
+            "year": "2024",
+            "level": "State Level",
+            "recipient": "Priya Hegde (Class 9)",
+            "organizer": "Karnataka Sanskriti Department",
+            "desc": "Secured first prize for a solo performance showcasing impeccable expressive mudras."
+          },
+          {
+            "title": "All-Bangalore English Debate First Prize",
+            "year": "2025",
+            "level": "City Level",
+            "recipient": "Rahul Prasad (Class 10)",
+            "organizer": "YMCA Bangalore",
+            "desc": "Emerged winner after debating on the ethical implications of artificial intelligence in education."
+          }
+        ]
+      }
+    }
+  }
+}
